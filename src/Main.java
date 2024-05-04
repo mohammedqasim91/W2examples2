@@ -25,7 +25,7 @@ public class Main {
                     vowelCount++;
                 }
             else {
-                System.out.println("Not a vowel" + word);
+                System.out.println("Not a vowel litter" + word);
                 }
         }
 
